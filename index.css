@@ -1,0 +1,16 @@
+#title
+{
+    font-family: "Verdana";
+}
+
+#courseText
+{
+    border-radius: 10px;
+}
+
+#addButton
+{
+    border-radius: 7px;
+    background-color: #000000;
+    color: white;    
+}

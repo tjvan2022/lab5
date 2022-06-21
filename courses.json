@@ -1,0 +1,23 @@
+{
+    "COMP3015": {
+        "completed": false
+    },
+    "COMP1011": {
+        "completed": false
+    },
+    "COMP3761": {
+        "completed": true
+    },
+    "COMP3832": {
+        "completed": true
+    },
+    "COMP1288": {
+        "completed": true
+    },
+    "COMP2831": {
+        "completed": true
+    },
+    "COMP2833": {
+        "completed": true
+    }
+}
